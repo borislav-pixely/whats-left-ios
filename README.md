@@ -1,5 +1,6 @@
 # What's Left?
-#### A personal iOS app project I've developed for budget and credit tracking.
+#### A personal iOS app project for budget and credit tracking.
+### Status: In Development
 
 Minimum iOS deployment target: 26.0 </br>
 Uses Swift version 6 for code compilation, </br>
