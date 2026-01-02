@@ -6,12 +6,14 @@
 //
 
 import SwiftUI
+import SwiftData
 
 @main
 struct WhatsLeftApp: App {
     var body: some Scene {
         WindowGroup {
             MainTabView()
+                .modelContainer(for: [Entry.self])
         }
     }
 }
